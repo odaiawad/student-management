@@ -1,8 +1,8 @@
 public class reg{
-        private generalIdea studentHead; // students
-        private generalIdea courseHead; // courses
-        private generalIdea lastStudentAdded; // students
-        private generalIdea lastCourseAdded; // courses
+        private generalIdea studentHead;
+        private generalIdea courseHead; 
+        private generalIdea lastStudentAdded;
+        private generalIdea lastCourseAdded; 
 
 public UniversityRegistrationSystem() {
         studentHead = null;
